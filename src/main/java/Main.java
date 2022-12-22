@@ -5,7 +5,7 @@ public class Main {
 
     public static void main(String[] args) {
         int i = 0;
-        int j = 3;
+        int j = 4;
         List<Integer> list = new ArrayList<>();
 
         if (list.size() > 5) {

@@ -10,7 +10,7 @@ public class Main {
 
         if (list.size() > 5) {
             if (i > 5) {
-                if ( j < 2) {
+                if ( j < 4) {
                     System.out.println("test");
                 }
             }

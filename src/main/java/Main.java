@@ -1,0 +1,19 @@
+import java.util.ArrayList;
+import java.util.List;
+
+public class Main {
+
+    public static void main(String[] args) {
+        int i = 0;
+        int j = 3;
+        List<Integer> list = new ArrayList<>();
+
+        if (list.size() > 5) {
+            if (i > 5) {
+                if ( j < 2) {
+                    System.out.println("test");
+                }
+            }
+        }
+    }
+}
